@@ -1,0 +1,6 @@
+@TimeWebAPI_HostAddress = http://localhost:5038
+
+GET {{TimeWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
